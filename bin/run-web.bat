@@ -1,6 +1,6 @@
 @echo off
 echo.
-echo [ไฟกๆฏ] ไฝฟ็”จ Vue CLI ๅ‘ฝไปค่ฟ่ก Web ๅทฅ็จใ€
+echo [ะลฯข] สนำร Vue CLI รüม๎ิหะะ Web นคณฬกฃ
 echo.
 
 %~d0
